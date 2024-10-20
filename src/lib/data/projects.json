@@ -1,0 +1,74 @@
+[
+  {
+    "title": "A Maze-ing",
+    "description": "Generates an interactive 3D maze for players to solve! Built on a Svelte frontend and Go backend, featuring authentication (OAuth), Threlte (Three.js wrapper), and CI/CD (CircleCI).",
+    "githubUrl": "https://github.com/1liale/A-Maze-ing",
+    "imageUrl": "/projects/Maze.png"
+  },
+  {
+    "title": "NameThatFish",
+    "description": "Cross-platform fish identifier app using React Native, Flask, and TensorFlow. Fine-tuned EfficientNet CNN model on custom dataset to classify 20+ fish species.",
+    "githubUrl": "https://github.com/1liale/NameThatFish",
+    "imageUrl": "/projects/NameThatFish.gif"
+  },
+  {
+    "title": "Remote Python IDE",
+    "description": "A secure, containerized remote code execution environment for Python3. Built on top of Svelte + Tailwind and FastAPI.",
+    "githubUrl": "https://github.com/1liale/RemotePythonIDE",
+    "imageUrl": "/projects/RemotePythonIDE.png"
+  },
+  {
+    "title": "MBTI Movie Recommender",
+    "description": "A fun movie recommender that suggests IMDb films based on your personality type!",
+    "githubUrl": "https://github.com/1liale/mbti-movie-recommender",
+    "imageUrl": "/projects/MbtiMovies.png"
+  },
+  {
+    "title": "Bitboard Chess",
+    "description": "A high-performance chess engine leveraging magic bitboards for fast move generation. Built with C++ and Docker, featuring OOP principles and various chess heuristics.",
+    "githubUrl": "https://github.com/1liale/BitboardChess",
+    "imageUrl": "/projects/Chess.png"
+  },
+  {
+    "title": "BlackJack Trainer",
+    "description": "A CLI based Java program that helps players improve at the card game Blackjack.",
+    "githubUrl": "https://github.com/1liale/BlackJack-Trainer",
+    "imageUrl": "/projects/BlackJackTrainer.png"
+  },
+  {
+    "title": "A Maze-ing",
+    "description": "Generates an interactive 3D maze for players to solve! Built on a Svelte frontend and Go backend, featuring authentication (OAuth), Threlte (Three.js wrapper), and CI/CD (CircleCI).",
+    "githubUrl": "https://github.com/1liale/A-Maze-ing",
+    "imageUrl": "/projects/Maze.png"
+  },
+  {
+    "title": "NameThatFish",
+    "description": "Cross-platform fish identifier app using React Native, Flask, and TensorFlow. Fine-tuned EfficientNet CNN model on custom dataset to classify 20+ fish species.",
+    "githubUrl": "https://github.com/1liale/NameThatFish",
+    "imageUrl": "/projects/NameThatFish.gif"
+  },
+  {
+    "title": "Remote Python IDE",
+    "description": "A secure, containerized remote code execution environment for Python3. Built on top of Svelte + Tailwind and FastAPI.",
+    "githubUrl": "https://github.com/1liale/RemotePythonIDE",
+    "imageUrl": "/projects/RemotePythonIDE.png"
+  },
+  {
+    "title": "MBTI Movie Recommender",
+    "description": "A fun movie recommender that suggests IMDb films based on your personality type!",
+    "githubUrl": "https://github.com/1liale/mbti-movie-recommender",
+    "imageUrl": "/projects/MbtiMovies.png"
+  },
+  {
+    "title": "Bitboard Chess",
+    "description": "A high-performance chess engine leveraging magic bitboards for fast move generation. Built with C++ and Docker, featuring OOP principles and various chess heuristics.",
+    "githubUrl": "https://github.com/1liale/BitboardChess",
+    "imageUrl": "/projects/Chess.png"
+  },
+  {
+    "title": "BlackJack Trainer",
+    "description": "A CLI based Java program that helps players improve at the card game Blackjack.",
+    "githubUrl": "https://github.com/1liale/BlackJack-Trainer",
+    "imageUrl": "/projects/BlackJackTrainer.png"
+  }
+]
