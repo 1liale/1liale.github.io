@@ -5,7 +5,6 @@
 	import Saos from 'saos';
 	import Timeline from '$lib/components/Timeline.svelte';
 	import timelineData from '$lib/data/timeline.json';
-	import { base } from '$app/paths';
 
 	// Import icons from the simple icons collection
 	import SvelteIcon from '~icons/simple-icons/svelte';
@@ -91,19 +90,19 @@
 	};
 </script>
 
-<section id="about" class="min-h-screen flex items-center justify-center mt-20 mb-40 p-4 md:px-16">
+<section id="about" class="min-h-screen flex items-center justify-center mb-40 p-4 md:px-16">
 	<Saos animation={'fade-in 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) both'}>
 		<div
 			class="card rounded-lg shadow-lg border-2 border-blue-500/50 overflow-hidden w-full relative flex flex-col"
 		>
 			<div class="flex flex-col md:flex-row">
 				<div class="md:w-2/5">
-					<img src="{base}/about/Profile.jpg" alt="Alex Li" class="w-full h-full object-cover" />
+					<img src="/about/Profile.jpg" alt="Alex Li" class="w-full h-full object-cover" />
 				</div>
 				<div class="md:w-3/5 p-8 relative">
 					<h1 class="text-4xl font-bold mb-4">About Me</h1>
 					<p class="text-lg mb-4 text-gray-500">
-						I'm a Toronto-based SWE and 4th year undergrad student at the University of Waterloo,
+						I'm a 4th year undergrad student at the University of Waterloo,
 						currently building out innovative health-tech solutions (telemedicine & telehealth) to
 						make a positive impact on people's lives.
 					</p>
@@ -142,8 +141,8 @@
 						game where I'm constantly learning and finding new opportunities to be creative and have
 						fun with the process!
 					</p>
-
-					<div class="absolute top-8 right-8">
+					
+					<div class="absolute top-8 right-8 hidden lg:block">
 						<span class="bg-blue-500/70 text-white text-xs font-semibold px-3 py-2 rounded-full shake-animation">
 							⭐ <strong>Seeking New Grad Position May 2025</strong>
 						</span>
@@ -316,4 +315,3 @@
 	}
 
 </style>
-
