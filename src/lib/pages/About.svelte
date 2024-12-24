@@ -37,6 +37,8 @@
 	import JenkinsIcon from '~icons/simple-icons/jenkins';
 	import StripeIcon from '~icons/simple-icons/stripe';
 	import GitHubIcon from '~icons/simple-icons/github';
+	import GolangIcon from '~icons/simple-icons/go';
+	import FirebaseIcon from '~icons/simple-icons/firebase';
 
 	let expanded = false;
 	function toggleExpand() {
@@ -49,10 +51,11 @@
 			{ name: 'Python', icon: PythonIcon, color: '#E6F3FF' },
 			{ name: 'TypeScript', icon: TypeScriptIcon, color: '#E6F3FF' },
 			{ name: 'JavaScript', icon: JavaScriptIcon, color: '#E6F3FF' },
+			{ name: 'Golang', icon: GolangIcon, color: '#E6F3FF' },
 			{ name: 'C++', icon: CplusplusIcon, color: '#E6F3FF' },
 			{ name: 'C', icon: CIcon, color: '#E6F3FF' },
 			{ name: 'Kotlin', icon: KotlinIcon, color: '#E6F3FF' },
-			{ name: 'Bash', icon: BashIcon, color: '#E6F3FF' }
+			{ name: 'Bash', icon: BashIcon, color: '#E6F3FF' },
 		],
 		'AI & ML Tools': [
 			{ name: 'TensorFlow', icon: TensorFlowIcon, color: '#E6F3FF' },
@@ -75,6 +78,7 @@
 		],
 		'Cloud & DevOps': [
 			{ name: 'AWS', icon: AWSIcon, color: '#E6F3FF' },
+			{ name: 'Firebase', icon: FirebaseIcon, color: '#E6F3FF' },
 			{ name: 'Vercel', icon: VercelIcon, color: '#E6F3FF' },
 			{ name: 'Heroku', icon: HerokuIcon, color: '#E6F3FF' },
 			{ name: 'Docker', icon: DockerIcon, color: '#E6F3FF' },

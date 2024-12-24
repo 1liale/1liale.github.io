@@ -2,9 +2,9 @@
   {
     "period": "Sep 2024 - Present",
     "title": "Full Stack Developer",
-    "company": "LindyVentures",
-    "description": "Creating cutting-edge telehealth and telepharmacy applications to transform the future of healthcare.\n\nImplemented smooth and secure guest checkout experiences, integrating Stripe webhooks, Firebase authentication, and MongoDB user creation steps.\n\nDeveloped an internal dashboard with practitioner scheduling, a chat system with drag-and-drop attachment uploads, cron jobs to batch process SMS and email notifications, Python scripts to generate booking CSV reports and invoice forms, and integrated data from multiple sources (linking intake forms to visits, products to orders, and orders to visits).\n\nAdditionally, crafted beautiful landing pages on Next.js, focusing on user experience to drive conversion, and embedded Google AdSense into pages.",
-    "techStack": ["Next.js", "GraphQL", "Firebase Auth", "Resend", "Twilio", "Zapier", "Stripe", "Python", "MongoDB", "Cursor (Prompt Engineering)"]
+    "company": "Reimagine Health",
+    "description": "Building telehealth applications to reimagine the future of healthcare.\n\nImplemented smooth and secure checkout experiences, integrating Stripe webhooks, Firebase authentication, and MongoDB user creation steps.\n\nDeveloped an internal dashboard with practitioner scheduling, a chat system with drag-and-drop attachment uploads, cron jobs to batch process SMS and email notifications, Python scripts to generate booking CSV reports and invoice forms, and integrated data from multiple sources (linking intake forms to visits, products to orders, and orders to visits).\n\nAdditionally, crafted beautiful landing pages on Next.js, focusing on user experience to drive conversion, and embedded Google AdSense into pages.",
+    "techStack": ["Next.js", "GraphQL", "Firebase Auth", "Resend", "Twilio", "Zapier", "Stripe", "Python", "MongoDB", "OpenAI (Prompt Engineering)"]
   },
   {
     "period": "Jan 2024 - Apr 2024",

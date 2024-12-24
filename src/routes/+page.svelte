@@ -60,7 +60,7 @@
                     <span class="hidden sm:inline">GitHub</span>
                     <Github class="sm:hidden w-5 h-5" />
                 </a>
-                <a class="nav-link" href='#'>
+                <a class="nav-link" href='/resume.pdf' target="_blank" rel="noopener noreferrer">
                     <span class="hidden sm:inline">Resumé</span>
                     <FileText class="sm:hidden w-5 h-5" />
                 </a>
