@@ -1,5 +1,11 @@
 [
   {
+    "title": "DebateModAI",
+    "description": "A modern SaaS platform for debate practice and skill development, featuring AI-powered feedback and real-time video debates.",
+    "githubUrl": "https://github.com/1liale/debatemodai",
+    "imageUrl": "/projects/DebateModAI.png"
+  },
+  {
     "title": "A Maze-ing",
     "description": "Generates an interactive 3D maze for players to solve! Built on a Svelte frontend and Go backend, featuring authentication (OAuth), Threlte (Three.js wrapper), and CI/CD (CircleCI).",
     "githubUrl": "https://github.com/1liale/A-Maze-ing",
@@ -16,12 +22,6 @@
     "description": "A secure, containerized remote code execution environment for Python3. Built on top of Svelte + Tailwind and FastAPI.",
     "githubUrl": "https://github.com/1liale/RemotePythonIDE",
     "imageUrl": "/projects/RemotePythonIDE.png"
-  },
-  {
-    "title": "MBTI Movie Recommender",
-    "description": "A fun movie recommender that suggests IMDb films based on your personality type!",
-    "githubUrl": "https://github.com/1liale/mbti-movie-recommender",
-    "imageUrl": "/projects/MbtiMovies.png"
   },
   {
     "title": "Bitboard Chess",
@@ -36,6 +36,12 @@
     "imageUrl": "/projects/BlackJackTrainer.png"
   },
   {
+    "title": "DebateModAI",
+    "description": "A modern SaaS platform for debate practice and skill development, featuring AI-powered feedback and real-time video debates.",
+    "githubUrl": "https://github.com/1liale/debatemodai",
+    "imageUrl": "/projects/DebateModAI.png"
+  },
+  {
     "title": "A Maze-ing",
     "description": "Generates an interactive 3D maze for players to solve! Built on a Svelte frontend and Go backend, featuring authentication (OAuth), Threlte (Three.js wrapper), and CI/CD (CircleCI).",
     "githubUrl": "https://github.com/1liale/A-Maze-ing",
@@ -52,12 +58,6 @@
     "description": "A secure, containerized remote code execution environment for Python3. Built on top of Svelte + Tailwind and FastAPI.",
     "githubUrl": "https://github.com/1liale/RemotePythonIDE",
     "imageUrl": "/projects/RemotePythonIDE.png"
-  },
-  {
-    "title": "MBTI Movie Recommender",
-    "description": "A fun movie recommender that suggests IMDb films based on your personality type!",
-    "githubUrl": "https://github.com/1liale/mbti-movie-recommender",
-    "imageUrl": "/projects/MbtiMovies.png"
   },
   {
     "title": "Bitboard Chess",
