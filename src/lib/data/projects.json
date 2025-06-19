@@ -18,10 +18,10 @@
     "imageUrl": "/projects/NameThatFish.gif"
   },
   {
-    "title": "Remote Python IDE",
-    "description": "A secure, containerized remote code execution environment for Python3. Built on top of Svelte + Tailwind and FastAPI.",
-    "githubUrl": "https://github.com/1liale/RemotePythonIDE",
-    "imageUrl": "/projects/RemotePythonIDE.png"
+    "title": "ApeironDev",
+    "description": "ApeironDev is a scalable and robust cloud-native web IDE providing secure, sandboxed code execution and AI-powered code assistance.",
+    "githubUrl": "https://github.com/1liale/ApeironDev",
+    "imageUrl": "/projects/ApeironDev.png"
   },
   {
     "title": "Bitboard Chess",
@@ -54,10 +54,10 @@
     "imageUrl": "/projects/NameThatFish.gif"
   },
   {
-    "title": "Remote Python IDE",
-    "description": "A secure, containerized remote code execution environment for Python3. Built on top of Svelte + Tailwind and FastAPI.",
-    "githubUrl": "https://github.com/1liale/RemotePythonIDE",
-    "imageUrl": "/projects/RemotePythonIDE.png"
+    "title": "ApeironDev",
+    "description": "ApeironDev is a scalable and robust cloud-native web IDE providing secure, sandboxed code execution and AI-powered code assistance.",
+    "githubUrl": "https://github.com/1liale/ApeironDev",
+    "imageUrl": "/projects/ApeironDev.png"
   },
   {
     "title": "Bitboard Chess",

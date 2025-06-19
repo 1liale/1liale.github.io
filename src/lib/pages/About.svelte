@@ -146,11 +146,11 @@
 						fun with the process!
 					</p>
 					
-					<div class="absolute top-8 right-8 hidden lg:block">
+					<!-- <div class="absolute top-8 right-8 hidden lg:block">
 						<span class="bg-blue-500/70 text-white text-xs font-semibold px-3 py-2 rounded-full shake-animation">
-							⭐ <strong>Seeking New Grad Position May 2025</strong>
+							⭐ <strong>Seeking New Grad Position</strong>
 						</span>
-					</div>
+					</div> -->
 				</div>
 			</div>
 			<div
